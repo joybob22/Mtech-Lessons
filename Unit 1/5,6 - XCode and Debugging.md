@@ -85,6 +85,9 @@ Here are a list of helpful keyboard shortcuts:
 |Command - / | Comment selected text |
 |Option - click | Shows quick help, gives an introduction|
 |Command - click | Shows a menu of options to choose from|
+|Shift - Command - 0 | Opens the documentation window|
+|Option - click | Opens the assistance editor with what file you clicked|
+
 
 
 
