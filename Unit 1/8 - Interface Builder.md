@@ -18,6 +18,19 @@ When in storyboard in the top right there is a "+" button. You can use this butt
 
 ## Beginning Constraints
 
+There are many different screen sizes and devices. Putting all of your elements onto one canvas does not mean it will look the same on all devices. To solve this we have constraints. Constraints are what keeps your views the same size and in the same position across all devices and sizes. It takes a lot of work to get them perfect. Here we will just cover some of the basics.
+
+In order for a storyboard element to stay in the same position it needs to be anchored into that spot from all sides. If it doesn't have an anchor on what side then it will fill all the space that it can. Here are a few constraints you can use:
+
+*leading* Anchors the view to the left side
+*trailing* Anchors the view to the right side
+*top* Anchors the view to the top
+*bottom* Anchors the view to the bottom
+*height* Makes the view always the same height
+*width* Makes the view always the same width
+
+Note we don't use left and right because in some languages it is read and used in the opposition direction. That is the reason we use the words trailing and leading. An easy way to remember is left and leading both start with the same letter.
+
 ## Outlets vs. Actions
 
 In order to add an action or an outlet you control drag from the element in storyboard to your code. You can open Storyboard and your coding file to be side by side. To do this you can have storyboard open and option - click on the file you want to open besides it. Alternatively you can select Editor -> Assistant in the menu options.
