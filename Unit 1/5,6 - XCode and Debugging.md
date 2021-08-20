@@ -83,7 +83,8 @@ Here are a list of helpful keyboard shortcuts:
 |Command - a | Select everything in your file |
 |Control - i | Re-ident all of your selected code |
 |Command - / | Comment selected text |
-
+|Option - click | Shows quick help, gives an introduction|
+|Command - click | Shows a menu of options to choose from|
 
 
 
