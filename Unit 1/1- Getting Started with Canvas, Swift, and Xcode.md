@@ -19,7 +19,7 @@ There is an assignment in Canvas for every lab in the book. There will also be m
 
 ## Swift
 
-When the App Store was introduced all of the apps were built in Objective-C. In 2014 Apple introduced a more modern approach to programming in Swift. In the begginning there was a lot of hestiancy to learn and use Swift. Today Swift is used worldwide. The adoption rate of Swift was rapid and by 2017 majority of new apps were written in Swift. Swift is used in all of the Apple platforms including iOS, WatchOS, TvOS, MacOS, iPadOS, and more to come.
+When the App Store was introduced all of the apps were built in Objective-C. In 2014 Apple introduced a more modern approach to programming in Swift. In the beginning there was a lot of hesitancy to learn and use Swift. Today Swift is used worldwide. The adoption rate of Swift was rapid and by 2017 majority of new apps were written in Swift. Swift is used in all of the Apple platforms including iOS, WatchOS, TvOS, MacOS, iPadOS, and more to come.
 
 Modern languages are safe, fast, and most of the time don't have semi-colons. As you begin to learn Swift you will start to understand how Swift has built in safety and runs relatively quickly.
 
@@ -38,15 +38,15 @@ These are some features of Swift:
 
 By the end of the course you can look back on this list and see everything you have learned about Swift. I would encourage you to come back and see how far you have come at the conclusion of the program
 
-In 2015 Apple releaseed Swift as an open source project. That means right now you can go look and see everything that makes the langauge. Everyone is welcome to see it as well as contribute. If there is something about Swift that you don't like you can put in a request to change it. There have been many community lead changes that have been implemented into Swift over the years. Right now a lot of it will go over your head, but as well you learn the language I would encourage you to follow along with how Swift is changing from year to year. [Swift.org](https://swift.org)
+In 2015 Apple released Swift as an open source project. That means right now you can go look and see everything that makes the language. Everyone is welcome to see it as well as contribute. If there is something about Swift that you don't like you can put in a request to change it. There have been many community lead changes that have been implemented into Swift over the years. Right now a lot of it will go over your head, but as well you learn the language I would encourage you to follow along with how Swift is changing from year to year. [Swift.org](https://swift.org)
 
 ## Xcode
 
 It's time to write your first lines of code in Swift. Xcode is an Integrated Development Environment. In simple terms that means in Xcode you can write code and Xcode will run your code and output a result.
 
-In a few lessons we will cover a lot of what Xcode has to offer, for today we will cover a couple fo the very basics. To write your first lines of code we will start with a playground. When you open Xcode you will get a couple of options of what you can start with. Select File -> New - >Playground
+In a few lessons we will cover a lot of what Xcode has to offer, for today we will cover a couple of the very basics. To write your first lines of code we will start with a playground. When you open Xcode you will get a couple of options of what you can start with. Select File -> New - >Playground
 
-It's common for your first line of code to print out a statement like Hello World to the console. That is what we will do today. When you opened a playground you will see a large text edditing space. This is where we will type our code. To print Hello World to the console type this line of code: 
+It's common for your first line of code to print out a statement like Hello World to the console. That is what we will do today. When you opened a playground you will see a large text editing space. This is where we will type our code. To print Hello World to the console type this line of code: 
 ```
 	print("Hello, world!")
 ```
@@ -59,7 +59,7 @@ You've written your first line of code, it's time to build your first app! I wan
 
 Open Xcode. Create a new project, File -> New -> Project -> App -> Name your project -> Choose where to save it. I'd recommend having a folder where you save all of your projects.
 
-Once your project has been created you may be overwhelmed with all of the information, that is okay. On the left you will see a list of files. Find Main.Storyboard and select it. This will open up a canvas showing a mock iphone. Your job is to will that iphone canvas with things about you. To add something to the canvas click the "+" button in the top bar. You can explore your options on what you can add. I'd recommend sticking with UILabel, UITextViews, and UIImage views. You can drag and drop those elements into your canvas. Then you can click to resize them and edit their text.
+Once your project has been created you may be overwhelmed with all of the information, that is okay. On the left you will see a list of files. Find Main.Storyboard and select it. This will open up a canvas showing a mock iPhone. Your job is to will that iPhone canvas with things about you. To add something to the canvas click the "+" button in the top bar. You can explore your options on what you can add. I'd recommend sticking with UILabel, UITextViews, and UIImage views. You can drag and drop those elements into your canvas. Then you can click to resize them and edit their text.
 
 In order to add an image it will take a couple of extra steps.
 1. Add an imageView into your storyboard canvas

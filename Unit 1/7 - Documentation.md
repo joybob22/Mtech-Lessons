@@ -35,9 +35,9 @@ Apple Documentation is broken up into a couple of pieces.
 
 *Declaration* This is how to name and access the property
 
-*Overview* A breakdown of how it is used. More common topics will have a larger overview giving a quick lessson on how it works.
+*Overview* A breakdown of how it is used. More common topics will have a larger overview giving a quick lesson on how it works.
 
-*Dicussion* In-depth description going into all of the details of the selected subject
+*Discussion* In-depth description going into all of the details of the selected subject
 
 *Availability* What iOS it is available in
 
@@ -69,7 +69,7 @@ Lastly add swift to the end of your search query. A lot of questions you may hav
 
 ### Finding the right result
 
-To find the right result you need to skim. If you look at each result with a manifying glass trying to determine if it is the right one you will be looking for far too long. Skim over the results and try to find one that is helpful to you. It is also helpful to look at the websites. As your searching skills get more adept you will find sites that you like more than others.
+To find the right result you need to skim. If you look at each result with a magnifying glass trying to determine if it is the right one you will be looking for far too long. Skim over the results and try to find one that is helpful to you. It is also helpful to look at the websites. As your searching skills get more adept you will find sites that you like more than others.
 
 For me my order of preference when it comes to websites is something like the following:
 1. Apple Documentation

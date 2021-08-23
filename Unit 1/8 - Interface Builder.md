@@ -14,7 +14,7 @@ When in storyboard in the top right there is a "+" button. You can use this butt
 - UITextField - used for short form text entry. Only one line
 - UISlider - used to show progress or a range
 - UISwitch - used to show off and on
-- UILabel - Text that you can show to the user, not edittable by the user
+- UILabel - Text that you can show to the user, not editable by the user
 
 ## Beginning Constraints
 

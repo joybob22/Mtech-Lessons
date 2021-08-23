@@ -2,9 +2,9 @@
 
 ## Learning Objectives
 - How to create a project in Xcode
-- Be able to manuever around Xcode
+- Be able to maneuver around Xcode
 - Be able to upload a Xcode project to Canvas
-- Be able to desribe simple debugging techniques
+- Be able to describe simple debugging techniques
 - Know how to run a project on device
 
 ## Project Details
@@ -23,7 +23,7 @@ When you create a new project Xcode will ask you what type of app you want to cr
 - iMessage - Ability to create apps for the iMessage store.
 
 *Bundle ID*
-Your Bundle ID is what make your app unique from other apps. It is used if you want to put your app in the App Store or occsionally for third party frameworks. It is common for Bundle ID's to follow this format:
+Your Bundle ID is what make your app unique from other apps. It is used if you want to put your app in the App Store or occasionally for third party frameworks. It is common for Bundle ID's to follow this format:
 com.firstnamelastname.projectname || com.businessname.projectname
 
 *Storyboard/SwiftUI*
@@ -44,7 +44,7 @@ If you upload the .xcodeproj file or the wrong folder I will be unable to view i
 
 You will write some code that does not work. To find the issue and fix it Xcode gives a variety of tools.
 
-- breakpoints - You can put a breakpoint on any line of your code. Once the compiler gets to that line of code it will pause the build.
+- breakpoints - You can put a break point on any line of your code. Once the compiler gets to that line of code it will pause the build.
 When the compiler is paused on a line of code you can do the following:
 - console, PO values - In the console you can call the command po (print object) and a variable name to see what the value of any object is/.
 - step over controls - In the toolbar of the console you can use step over controls to skip to next line or function.
@@ -81,7 +81,7 @@ Here are a list of helpful keyboard shortcuts:
 |Command - b | Build your project |
 |Command - k | Clean your project |
 |Command - a | Select everything in your file |
-|Control - i | Re-ident all of your selected code |
+|Control - i | Re-indent all of your selected code |
 |Command - / | Comment selected text |
 |Option - click | Shows quick help, gives an introduction|
 |Command - click | Shows a menu of options to choose from|

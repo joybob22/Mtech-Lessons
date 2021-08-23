@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-- How to do basic mathematic operations
+- How to do basic mathematics operations
 - How to add two numbers of different types together
 - How to find the remainder of a division operation
 
@@ -12,9 +12,9 @@ To assign a value the = operator is used. The left side of the = is what is bein
 ```Swift
 	let number = 5
 ```
-Here we are seting the constant of number. The value we are setting it to is 5. The = operator can often be confused with the == operator. The == operator will be covered more in the next lesson, but it is a way to check if two values are the same.
+Here we are setting the constant of number. The value we are setting it to is 5. The = operator can often be confused with the == operator. The == operator will be covered more in the next lesson, but it is a way to check if two values are the same.
 
-## Basic Mathematic Operators
+## Basic Mathematics Operators
 
 Adding, subtracting, multiplying, and dividing are all built into the Swift language. All of the operators that are familiar are the same (+, -, \*, /) Here is an example of how each would be used
 ```Swift
@@ -25,11 +25,11 @@ Adding, subtracting, multiplying, and dividing are all built into the Swift lang
 ```
 The values of the code snippet above would be as follows:
 - Addition - 7
-- Subtration - 3
-- Multiplocation - 10
+- Subtraction - 3
+- Multiplication - 10
 - Dividing - 2
 
-*Best Pracice* - It is best to put spaces betwen your basic mathematic operators. This makes your code more easily readable and familiar to others.
+*Best Practice* - It is best to put spaces between your basic mathematics operators. This makes your code more easily readable and familiar to others.
 
 
 ## Remainder Operator
@@ -37,12 +37,12 @@ The values of the code snippet above would be as follows:
 When dividing the numbers will not always come out as whole numbers. Dividing 5 / 2 is 2 remainder 1. In swift you can get the remainder by using the % operator. Here is an example:
 ```Swift
 	let dividing = 5 / 2 // This results in 2 
-	let remainder = 5 % 2 // This reulsts in 1
+	let remainder = 5 % 2 // This results in 1
 ```
-In this example dividing is the result of 2 because we are diving Int or whole numbers. The remainder is 1, becuase that is how many left over after a full division.
+In this example dividing is the result of 2 because we are diving Int or whole numbers. The remainder is 1, because that is how many left over after a full division.
 
 ## Type Conversion
-Numbers have two types that will be used to start. The first is *Int* which means it's a whole number. The second is *Double* which means it has the potential to be more than a whole number. If using mathematic operators the numbers have to be the same type. Here are some examples:
+Numbers have two types that will be used to start. The first is *Int* which means it's a whole number. The second is *Double* which means it has the potential to be more than a whole number. If using mathematics operators the numbers have to be the same type. Here are some examples:
 ```Swift
 	let x = 10 // Int
 	let y = 5.2  // Double
