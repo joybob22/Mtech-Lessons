@@ -28,7 +28,7 @@ An If statement is used to determine if a chunk of code should be run. In a scor
 
 An If statement can be used in cooperation with operators. In your score keeping app you may need to use the comparison operators to find out which person has the highest score. Logical operators may also be used to help determine the flow of the game. 
 
-To declare an if statement you start with the keyword *if*. Then you declare your conditional statement. Open a curly brace and a closing curly brace *{ }*. All of the code inside of the two curly braces will be in accoring to your conditional statement. After the closing curly brace you can declare an else statement with they keyword else and two more curly braces. The Else statement is run if the inital conditional statement fails.
+To declare an if statement you start with the keyword *if*. Then you declare your conditional statement. Open a curly brace and a closing curly brace *{ }*. All of the code inside of the two curly braces will be in according to your conditional statement. After the closing curly brace you can declare an else statement with they keyword else and two more curly braces. The Else statement is run if the initial conditional statement fails.
 
 Here are some examples:
 
@@ -86,7 +86,7 @@ Here are some examples:
 
 ## Switch Statements
 
-A Switch statement is used when there are a lot of conditional statements. Switch statements do not have to be exaughstive, but they can be. You can switch over a number and have a case for four numbers which wouldn't cover every conditional number that could happen. In that case you would need a default case to catch all of the conditions that aren't accounted for. As well you could have conditions for the numbers using the greater than and less than to cover all possible numbers, then you would not need a default case.
+A Switch statement is used when there are a lot of conditional statements. Switch statements do not have to be exhaustive, but they can be. You can switch over a number and have a case for four numbers which wouldn't cover every conditional number that could happen. In that case you would need a default case to catch all of the conditions that aren't accounted for. As well you could have conditions for the numbers using the greater than and less than to cover all possible numbers, then you would not need a default case.
 
 To declare a switch statement you start with the *switch* keyword, then the variable that you want to switch on followed by two curly braces. In the curly braces you declare all of the cases that can happen. For a case you use the keyword *case* what the case is, then a colon. After the colon you write the code that you want to happen if that case succeeds. Repeat for all cases. If you switch statement does not cover all possible conditions then you will need a default case as well. Here is an example:
 ```Swift
@@ -95,7 +95,7 @@ To declare a switch statement you start with the *switch* keyword, then the vari
 	case 0:
 		print("You don't have any wheels")
 	case 1: 
-		print("Unicylce")
+		print("Unicycle")
 	case 2: 
 		print("Bicycle")
 	case 3:
@@ -114,7 +114,7 @@ To declare a switch statement you start with the *switch* keyword, then the vari
 
 ## Ternary operators
 
-The Ternary operator is used to write more concise code. It allows you to assign a variable based off of a condition. The ternary opterator is called by using the ? operator. Here is an example of how it works:
+The Ternary operator is used to write more concise code. It allows you to assign a variable based off of a condition. The ternary operator is called by using the ? operator. Here is an example of how it works:
 ```Swift
 	var largest: Int
 	let a = 15

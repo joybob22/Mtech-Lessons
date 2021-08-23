@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 - Be able to declare a constant
-- Be able to declate a variable
+- Be able to declare a variable
 - Know the difference between a constant and variable
 - Name 4 different Data Types
 - Describe what type inference is
@@ -17,7 +17,7 @@ To store values in programming we use constants and variable. A constant is a va
 
 ## Variables
 
-A variable is a value that could change in the future. If we take our previous example of a person the value of their age is going to change. To create a variable we use the "var" keyworked. Here is an example:
+A variable is a value that could change in the future. If we take our previous example of a person the value of their age is going to change. To create a variable we use the "var" keyword. Here is an example:
 
 ```Swift
 	var age = 28
@@ -33,7 +33,7 @@ Perhaps their birthday is coming up if we want to change their age we can. We ca
 When giving names to our constants and variables we use something called camelCase. The naming convention goes as following:
 - No spaces
 - First word is lower case
-- Each word after has the first letter capitilized
+- Each word after has the first letter capitalized
 
 It is helpful to be exact when naming our constants and variables. This makes it easier to recall and find variables and constants we have created. Here are some examples:
 
@@ -54,7 +54,7 @@ A string is a way to represent text. To create a string we use the quotes "". Ev
 ```
 
 ### Numbers
-To represent numbers there are many different data types that are used. Here we will focus on two. **Int** and **Double**. Int stands for integer it is used to represent whole numbers. Doubles are used to represent numbers that have decimals. We will cover both ints and doubles more in the next lesson. Here are some examples of both:
+To represent numbers there are many different data types that are used. Here we will focus on two. **Int** and **Double**. Int stands for integer it is used to represent whole numbers. Doubles are used to represent numbers that have decimals. We will cover both Ints and Doubles more in the next lesson. Here are some examples of both:
 
 ```Swift
 	let integer = 5
@@ -75,4 +75,4 @@ In all of the examples given in this lesson the swift compiler determines what t
 ```Swift
 	let name: String = "Alan"
 ```
-Here we tell the compiler that name will most defintely be a String. This is not required to do, but can be helpful when you are first starting to get familiar with different data types.
+Here we tell the compiler that name will most definitely be a String. This is not required to do, but can be helpful when you are first starting to get familiar with different data types.
