@@ -77,16 +77,36 @@ Here are a list of helpful keyboard shortcuts:
 
 | Command | Description |
 |---------|-------------|
+|Command - c | Copy |
+|Command - v | Paste |
+|Command - z | Undo |
 |Command - r | Run your project |
 |Command - b | Build your project |
-|Command - k | Clean your project |
+|Command - Shift - k | Clean your project |
 |Command - a | Select everything in your file |
 |Control - i | Re-indent all of your selected code |
 |Command - / | Comment selected text |
-|Option - click | Shows quick help, gives an introduction|
+|Option - click on code | Shows quick help, gives an introduction|
 |Command - click | Shows a menu of options to choose from|
 |Shift - Command - 0 | Opens the documentation window|
 |Option - click | Opens the assistance editor with what file you clicked|
+|Control - Command - Space | Opens the emoji keyboard|
+|Command - l | Jump to a specific line in your code|
+|Command - Shift - o | Opens file|
+|Command - Shift - j | Show current file in project navigator|
+|Control - Space | Opens code completion|
+|Command - f | Finds all in project|
+|Control - Command -  e | Refactor all variable in scope|
+|Command - Option - [ | Move line of code up|
+|Command - Option - ] | Move line of code down|
+|Option - Command - Enter | Show assistant editor|
+|Option - Click file | Opens file in assistant editor|
+|Command - Left Arrow | Opens previous file|
+|Command - n | Open new file|
+
+
+
+
 
 
 
