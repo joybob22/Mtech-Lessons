@@ -47,8 +47,8 @@ class ParentalUnit {
 class Child: ParentalUnit {
     let personality: String
     init(personality: String, name: String, isBald: Bool) {
-        super.init(name: name, isBald: isBald)
         self.personality = personality
+        super.init(name: name, isBald: isBald)
     }
 }
 ```
