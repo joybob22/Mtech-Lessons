@@ -3,5 +3,8 @@
 
 ## Learning Objectives
 
+## What is type casting
 
+## as! vs as?
 
+## Any
